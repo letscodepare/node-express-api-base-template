@@ -1,0 +1,8 @@
+{
+  "name": "node-express-api",
+  "version": "1.0.0",
+  "description": "A better structure for node express api by Lets Code Pare",
+  "main": "server.js",
+  "author": "Let's Code Pare",
+  "license": "MIT"
+}
